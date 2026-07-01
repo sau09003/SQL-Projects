@@ -67,29 +67,30 @@ Superstore-SQL-Project/
 ├── queries.sql
 ├── analysis_notes.md
 └── superstore_sales.csv
+````
 
 ---
 
 ## 🛠️ Tools Used
 
-- MySQL / SQL  
-- Relational Database Management System  
-- Analytical Querying Techniques  
+* MySQL / SQL
+* Relational Database Management System
+* Analytical Querying Techniques
 
 ---
 
 ## 📌 Outcome
 
-This project demonstrates the ability to transform raw transactional data into meaningful business insights using SQL.  
+This project demonstrates the ability to transform raw transactional data into meaningful business insights using SQL.
 It showcases strong understanding of data analysis, business reporting, and analytical thinking.
 
 ---
 
 ## 👨‍💻 Author
 
-**Saurav Bhosale**  
-Data Analytics Enthusiast  
-Focused on SQL, Power BI, and Business Intelligence  
+**Saurav Bhosale**
+Data Analytics Enthusiast
+Focused on SQL, Power BI, and Business Intelligence
 
 ---
 
@@ -97,5 +98,8 @@ Focused on SQL, Power BI, and Business Intelligence
 
 This project is intended for:
 
-- SQL practice and learning  
-- Data analytics portfolio  
+* SQL practice and learning
+* Data analytics portfolio
+* Interview preparation
+
+```
