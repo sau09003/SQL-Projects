@@ -101,5 +101,3 @@ This project is intended for:
 * SQL practice and learning
 * Data analytics portfolio
 * Interview preparation
-
-```
